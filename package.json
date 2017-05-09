@@ -1,0 +1,13 @@
+{
+  "name": "hash-reader",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm run server",
+    "heroku": "npm run server",
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
